@@ -1,0 +1,60 @@
+[
+  {
+    "airportFrom": "AAL",
+    "airportTo": "GRO",
+    "connectingAirport": null,
+    "newRoute": true,
+    "seasonalRoute": false,
+    "operator": "RYANAIR",
+    "carrierCode": "FR",
+    "group": "GENERIC",
+    "similarArrivalAirportCodes": [],
+    "tags": []
+  },
+  {
+    "airportFrom": "AAL",
+    "airportTo": "STN",
+    "connectingAirport": null,
+    "newRoute": false,
+    "seasonalRoute": false,
+    "operator": "RYANAIR",
+    "carrierCode": "FR",
+    "group": "CITY",
+    "similarArrivalAirportCodes": [],
+    "tags": []
+  },
+  {
+    "airportFrom": "STN",
+    "airportTo": "GRO",
+    "connectingAirport": null,
+    "newRoute": false,
+    "seasonalRoute": false,
+    "operator": "RYANAIR",
+    "carrierCode": "FR",
+    "group": "LEISURE",
+    "similarArrivalAirportCodes": [],
+    "tags": []
+  },  {
+  "airportFrom": "AAL",
+  "airportTo": "ABC",
+  "connectingAirport": null,
+  "newRoute": false,
+  "seasonalRoute": false,
+  "operator": "TEST",
+  "carrierCode": "FR",
+  "group": "CITY",
+  "similarArrivalAirportCodes": [],
+  "tags": []
+},
+  {
+    "airportFrom": "ABS",
+    "airportTo": "GRO",
+    "connectingAirport": "GRO",
+    "newRoute": false,
+    "seasonalRoute": false,
+    "operator": "RYANAIR",
+    "carrierCode": "FR",
+    "group": "LEISURE",
+    "similarArrivalAirportCodes": [],
+    "tags": []
+  }]

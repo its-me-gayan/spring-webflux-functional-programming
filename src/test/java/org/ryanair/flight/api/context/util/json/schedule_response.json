@@ -1,0 +1,148 @@
+{
+  "month": 4,
+  "days": [
+    {
+      "day": 2,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "07:55",
+          "arrivalTime": "11:25"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "21:40",
+          "arrivalTime": "01:10"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "19:20",
+          "arrivalTime": "22:50"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "07:55",
+          "arrivalTime": "11:25"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "21:40",
+          "arrivalTime": "01:10"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "19:20",
+          "arrivalTime": "22:50"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "07:55",
+          "arrivalTime": "11:25"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "21:40",
+          "arrivalTime": "01:10"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "19:20",
+          "arrivalTime": "22:50"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "07:55",
+          "arrivalTime": "11:25"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "21:40",
+          "arrivalTime": "01:10"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "19:20",
+          "arrivalTime": "22:50"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "flights": [
+        {
+          "carrierCode": "FR",
+          "number": "98",
+          "departureTime": "07:55",
+          "arrivalTime": "11:25"
+        }
+      ]
+    }
+  ]
+}

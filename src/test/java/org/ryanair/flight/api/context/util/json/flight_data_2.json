@@ -1,0 +1,20 @@
+[
+  {
+    "carrierCode": "FR",
+    "number": "3918",
+    "departureTime": "2024-04-02T15:30",
+    "arrivalTime": "2024-04-02T10:30"
+  },
+  {
+    "carrierCode": "FR",
+    "number": "9157",
+    "departureTime": "2024-04-02T13:55",
+    "arrivalTime": "2024-04-02T14:40"
+  },
+  {
+    "carrierCode": "FR",
+    "number": "9157",
+    "departureTime": "2024-04-02T17:55",
+    "arrivalTime": "2024-04-02T20:40"
+  }
+]
